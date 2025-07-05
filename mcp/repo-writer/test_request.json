@@ -1,0 +1,14 @@
+{
+  "jsonrpc": "2.0",
+  "method": "writeJekyllDraft",
+  "params": {
+    "title": "My First Blog Post",
+    "tags": ["go", "jekyll", "blogging"],
+    "categories": ["programming", "tutorial"],
+    "series": "getting-started",
+    "summary": "A comprehensive guide to setting up a Jekyll blog with Go",
+    "body": "# My First Blog Post\n\nThis is the body of my blog post. You can write your markdown content here.\n\n## Features\n\n- Feature 1\n- Feature 2\n- Feature 3\n\n## Code Example\n\n```go\nfunc main() {\n    fmt.Println(\"Hello, World!\")\n}\n```\n\nThat's all for now!",
+    "path": "/tmp/test-blog"
+  },
+  "id": 1
+} 

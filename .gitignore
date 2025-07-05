@@ -3,3 +3,4 @@ bin/
 *.env
 *.DS_Store
 __pycache__/
+mcp/repo-writer/repo-writer
